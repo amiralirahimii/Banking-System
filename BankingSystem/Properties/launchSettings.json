@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BankingSystem": {
+      "commandName": "Project",
+      "commandLineArgs": "Banks.csv Users.csv"
+    }
+  }
+}
